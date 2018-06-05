@@ -1,0 +1,8 @@
+## IDE folders
+.idea/*
+venv/*
+config_reader/Config\.xml
+
+config_reader/__pycache__/
+
+*.pyc
