@@ -1,3 +1,6 @@
 ## IDE folders
 .idea/*
 venv/*
+config_reader/__pycache__/
+
+config_reader/Config\.xml
