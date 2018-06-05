@@ -1,3 +1,4 @@
+*.pyc
 ## IDE folders
 .idea/*
 venv/*
